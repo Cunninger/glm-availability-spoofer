@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  数据拦截与篡改
-// @author       抖音搜方法返回你的笑
+// @author       
 // @match        *://www.bigmodel.cn/*
 // @run-at       document-start
 // @grant        none
