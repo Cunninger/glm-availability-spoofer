@@ -74,7 +74,7 @@
 
 1. 安装 [Tampermonkey Beta](https://chrome.google.com/webstore/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)（Chrome 测试版）
 2. 完成上述【浏览器设置要求】开启权限
-3. [点击安装脚本](https://raw.githubusercontent.com/Cunninger/glm-availability-spoofer/main/glm-spoofer.user.js)
+3. 复制js脚本，添加到油猴插件
 4. 访问 `bigmodel.cn` 商品页面，按【使用方法】操作
 
 ## 📝 更新日志
